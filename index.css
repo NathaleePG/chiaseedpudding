@@ -242,6 +242,11 @@ li span{
     margin:10px auto 50px auto;
 }
 
+#main #intro{
+    margin-top:15px;
+    margin-bottom:45px;
+}
+
 .p1{
     background:url("ss1.jpg") center;
 }
